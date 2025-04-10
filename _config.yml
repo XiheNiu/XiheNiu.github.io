@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Xihe Niu/ Personal Homepage"
 title_separator          : "-"
-name                     : &name "Xihe Niu
+name                     : &name "Xihe Niu"
 description              : &description "personal description"
 url                      : https://XiheNiu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
