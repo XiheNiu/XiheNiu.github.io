@@ -23,7 +23,7 @@ repository               : "XiheNiu/XiheNiu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "牛玺赫(Xihe Niu)"
+  name             : "牛玺赫 (Xihe Niu)"
   pronouns         : "He/Him"  
   bio              : "An undergraduate student, focus on mass spectrometry-based proteomics research."
   location         : "Hangzhou, China"
@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "NN调餐工程师" # Username
+  zhihu            :  # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
