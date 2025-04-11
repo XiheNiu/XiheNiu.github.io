@@ -19,7 +19,7 @@ I aim to develop AI-driven computational tools that reveal hidden biological nar
 
 ## 🎓 Education & Research Appointments
 ### Current Affiliation
-🌟 Exciting to join the [Zou Lab](https://www.yilongzou-lab.com/) and [FeNNOmix Lab](https://www.fennomix.com/) at [Westlake University](https://www.westlake.edu.cn/) to explore "AI for Science"!
+🌟 Exciting to join the Zou Lab and FeNNOmix Lab at [Westlake University](https://www.westlake.edu.cn/) to explore "AI for Science"!
   * **Zou Lab** investigates lipid metabolism in development and disease, combining multi-scale biology to uncover new pathways and therapies for cancer and degeneration.
   * **FeNNOmix Lab** develops AI-driven computational tools to explore glycoproteomics, immunopeptidomics, and PTMomics, with a focus on virus-host interactions and disease mechanisms.
 
