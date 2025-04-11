@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 =======
-**B.S. in Computer Science and Technology**  
+**B.E. in Computer Science and Technology**  
 Shandong First Medical University | Sep 2021 - Jun 2025  
 - GPA: 3.7/4.0 (Top 5%)
 - Key Courses: Data Structures & Algorithms, Computer Architecture, Operating Systems, etc.
