@@ -30,10 +30,10 @@ I aim to develop AI-driven computational tools that reveal hidden biological nar
 ### 🌌 Decoding Cellular "Dark Matter"
 *Next-gen PTM discovery tools at Zou Lab & FeNNOmix Lab*:
 * Developing deep learning-based tools to uncover novel protein lipidations by integrating retention time shifts, diagnostic fragment ions (empirical & predicted), and open-/blind-search MS/MS pipelines for untargeted PTM discovery.
-* Built an LC-MS/MS workflow for site-specific lipidation identification, automating detection of modification-specific spectral patterns and RT deviations, enabling igh-confidence annotation of known lipidations (e.g., S-palmitoylation, N-myristoylation).
+* Building an LC-MS/MS workflow for site-specific lipidation identification, automating detection of modification-specific spectral patterns and RT deviations, enabling high-confidence annotation of known lipidations (e.g., S-palmitoylation, N-myristoylation).
 
 ### 🔬 Decoding Metastatic Metabolic “Cryptography”
-*Metabolomics Profiling of Tumor Drug Response at Zou Lab*:
+*Metabolomics profiling of tumor drug response at Zou Lab*:
 * Integrating metabolomics with transcriptomics/proteomics to identify metastasis-associated metabolic vulnerabilities.
 * Correlating metabolic shifts with drug sensitivity assays and mapping critical metabolic pathways.
 
