@@ -7,38 +7,63 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! 👋 I'm Xihe Niu.
+Hi there! 👋 I'm Xihe Niu.  
 
-**Computational Biologist** | **AI Enthusiasts** | **Software Developer**
+**"The cell writes its diary in molecular ink — my code becomes its quill."**
 
-## 🎓 Education & Appointments
-- **Bachelor of Computer Science** [Shandong First Medical University](https://www.sdfmu.edu.cn/) | 2021 - Present  
-  • Prof. Changbin Yu - Bioinformatic  
-  • Prof. Lanhua Zhang - AI  
+## 🧠 Research Philosophy
+I develop AI-driven computational tools that reveal hidden biological narratives from complex data. My work sits at the exciting collision point where:
+* Deep learning meets mass spectrometry.
+* Algorithm design intersects post-translational modification discovery.
+* Open-source tools empower omics research.
 
-- **Visiting Researcher** [Westlake University](https://en.westlake.edu.cn/) | 2024 - Present  
-  • Prof. Yilong Zou ([Zou Lab](https://www.yilongzou-lab.com/)) - Metabolomics  
-  • Prof. Wenfeng Zeng ([FeNNOMix Lab](https://fennomix.com/)) - AI  
+## 🎓 Education & Research Appointments
+### Current Affiliation
+🌟 Exciting to join the [Zou Lab](https://www.yilongzou-lab.com/) and [FeNNOmix Lab](https://www.fennomix.com/) at [Westlake University](https://www.westlake.edu.cn/) to explore "AI for Science"!
+  * **Zou Lab** investigates lipid metabolism in development and disease, combining multi-scale biology to uncover new pathways and therapies for cancer and degeneration.
+  * **FeNNOmix Lab** develops AI-driven computational tools to explore glycoproteomics, immunopeptidomics, and PTMomics, with a focus on virus-host interactions and disease mechanisms.
 
-## 🔬 Research Focus  
-Developing *computational tools* to solve biological challenges in:  
-- **Proteomics** (Developing AI-driven methods for accurate LC-MS/MS based identification of protein post-translational modifications). 
-- **Metabolomics** (Investigating the relationship between drug sensitivity and metastatic potential in tumor cells).
+### Academic Background
+🏛️ B.E. in Computer Science and Technology, [Shandong First Medical University](https://www.sdfmu.edu.cn/) (2021–2025)
 
-## 🏆 Highlighted Projects
-1. [AMHEL: Deep Learning-Based Depressive Sentiment Detection in Social Media Texts.](https://github.com/XiheNiu/AMHEL)
-  - Developed a BiGRU + Multi-head Attention model using GloVe embeddings to analyze social media texts for mental health screening. Achieved 94% precision (AUC=0.91) by focusing on sentiment-rich keywords via attention mechanisms and optimizing with AdamW/label smoothing. Recognized with a national software copyright (2024SR1068492) and selected for China's College Computer Design Competition finals.
-  - Developed under Prof. Lanhua Zhang at SDFMU & Manuscript in prep.
-2. [IERC: An Ion Informativity-centric Paradigm for Spectral Matching.](https://github.com/XiheNiu/IERC_similarity)
-   - Created an Ion Entropy and Rank-transformed spectral similarity (IERC) metric. By quantifying ion informativeness through fragmentation entropy and rank-transforming intensities, the approach enhances cross-instrument consistency while filtering noise. Validated on multiple MS platforms, it outperformed dot-product and Manhattan metrics, enabling more reliable small molecule characterization.
-   - Developed under Prof. Changbin Yu at SDFMU & Manuscript in prep.
-3. Novel Protein Lipidation Discovery. (Ongoing & Unpublished)
-   - Developed an LC-MS/MS pipeline for accurate lipidation identification, automating detection of site-specific modification markers and retention time shifts. Using open-search and blind-search techniques, I have uncovered potential novel modifications while reliably characterizing known lipidations. Current work focuses on implementing deep learning models to predict spectral patterns of unknown PTMs, with subsequent experimental validation to expand identifiable modification types.
-   - Developed under Prof. YiLong Zou and Wenfeng Zeng at WU.
+## 🚀 Current Adventures
+### 🌌 Decoding Cellular "Dark Matter"
+*Next-gen PTM discovery tools at Zou Lab & FeNNOmix Lab*:
+* Developing deep learning-based tools to uncover novel protein lipidations by integrating retention time shifts, diagnostic fragment ions (empirical & predicted), and open-/blind-search MS/MS pipelines for untargeted PTM discovery.
+* Built an LC-MS/MS workflow for site-specific lipidation identification, automating detection of modification-specific spectral patterns and RT deviations, enabling igh-confidence annotation of known lipidations (e.g., S-palmitoylation, N-myristoylation).
 
-You can find my CV here: [Xihe's Curriculum Vitae.](../assets/Curriculum_Vitae.pdf)
+### 🔬 Decoding Metastatic Metabolic “Cryptography”
+*Metabolomics Profiling of Tumor Drug Response at Zou Lab*:
+* Integrating metabolomics with transcriptomics/proteomics to identify metastasis-associated metabolic vulnerabilities.
+* Correlating metabolic shifts with drug sensitivity assays and mapping critical metabolic pathways.
 
-⚠️ Note: The “Projects” and “CV” sections are still in the process of being updated, and the “Publications” and “Blog Posts” sections will be added soon. I’m working hard on my first paper, so stay tuned!
+
+## 🛠️ My Toolbox
+<div align="center">
+  <!-- 编程语言 -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=light" />
+  
+  <!-- 数据科学与AI -->
+  <img src="https://skillicons.dev/icons?i=pytorch,anaconda&theme=light" />
+  
+  <!-- 开发工具 -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,ubuntu,docker&theme=light" />
+  
+  <!-- 文档与数据库 -->
+  <img src="https://skillicons.dev/icons?i=md,mongodb,mysql&theme=light" />
+  
+  <!-- 设计工具 -->
+  <img src="https://skillicons.dev/icons?i=ai,ps&theme=light" />
+</div>
+
+
+## 🌍 Beyond the Lab
+* I like to document the world through both camera and journal - whether capturing the urban landscapes or the mountain streams. Each journey becomes a field study in cultural and natural phenomena.
+* Badminton, swimming, and Go (Weiqi) - enjoying both intellectual and physical activities.
 
 ## 📫 Reach Me
+You can find my CV here: [Xihe's Curriculum Vitae.](../assets/XiheNiu-CV.pdf)
+
 Feel free to reach out: [![Contact](https://img.shields.io/badge/niuxihe@westlake.edu.cn-Contact_Me-D14836?logo=gmail&style=flat-square)](mailto:niuxihe@westlake.edu.cn) [![GitHub](https://img.shields.io/badge/GitHub-@XiheNiu-181717?logo=github&style=flat)](https://github.com/XiheNiu)
+
+⚠️ Note: The other sections are still in the process of being updated, and the “Publications” and “Blog Posts” sections will be added soon. I’m working hard on my first paper, so stay tuned!
