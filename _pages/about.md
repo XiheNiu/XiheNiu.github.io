@@ -12,7 +12,7 @@ Hi there! 👋 I'm Xihe Niu.
 **"The cell writes its diary in molecular ink — my code becomes its quill."**
 
 ## 🧠 Research Philosophy
-I develop AI-driven computational tools that reveal hidden biological narratives from complex data. My work sits at the exciting collision point where:
+I aim to develop AI-driven computational tools that reveal hidden biological narratives from complex data. My work sits at the exciting collision point where:
 * Deep learning meets mass spectrometry.
 * Algorithm design intersects post-translational modification discovery.
 * Open-source tools empower omics research.
