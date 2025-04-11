@@ -22,7 +22,7 @@ repository               : "XiheNiu/XiheNiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "牛玺赫 (Xihe Niu)"
   pronouns         : "He/Him"  
   bio              : "An undergraduate student, focus on mass spectrometry-based proteomics research."
